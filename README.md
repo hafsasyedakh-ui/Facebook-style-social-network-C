@@ -1,4 +1,4 @@
-Facebook-Style Social Network Simulator (C)
+# Facebook-Style Social Network Simulator (C)
   A modular, terminal-based social network simulator written in C that models users, friendships, and posts using dynamic memory and custom data structures.
   This project demonstrates strong understanding of pointers, linked lists, stacks, file I/O, memory management, and structured debugging in a Linux environment.
 
@@ -37,3 +37,4 @@ Key Learning Outcomes:
   Debugging pointer-related defects
   Designing modular, maintainable C code
   Working within a Linux development environment
+
